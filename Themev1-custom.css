@@ -1,0 +1,38 @@
+.sub-menu{
+  margin: 0;
+  font-size: 14px;
+  line-height : 2;
+}
+.ti{
+  font-size: 26px;
+}
+.main-content{
+  padding-top: 70px;
+}
+
+.online {
+    font-size: 12px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, .5);
+    width: 180px;
+    z-index: 999;
+    padding: 10px;
+    border-radius: 5px 0 0;
+    color: #fff
+}
+
+.online-icon {
+    background: url(http://forums.getpaint.net/public/style_images/master/ajax_loading.gif) no-repeat;
+    width: 43px;
+    z-index: 999;
+    height: 20px;
+    margin-bottom: -5px
+}
+
+.online-text {
+    width: 140px;
+    float: right;
+    margin-bottom: -10px
+}
